@@ -1,0 +1,8 @@
+{
+	"name": "node-sdl-ttf-prebuilt",
+	"version": "0.0.1",
+	"description": "Prebuilt binaries for SDL_ttf 2.0.11.",
+	"author": "Rob Loach <robloach@gmail.com>",
+	"license": "MIT"
+}
+
